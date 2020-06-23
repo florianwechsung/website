@@ -1,0 +1,6 @@
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = git@github.com:calintat/minimal.git
+[submodule "public"]
+	path = public
+	url = https://github.com/florianwechsung/florianwechsung.github.io.git
