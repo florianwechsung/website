@@ -5,8 +5,7 @@ title: Publications
 
 ### Submitted
 
-
-Fireshape: a shape optimization toolbox for Firedrake, _Alberto Paganini, Florian Wechsung_.
+Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman_.
 
 Shape optimisation for faster washout in recirculating flows, _Jessica G. Williams, Florian Wechsung, Ben W. Turney, Sarah L. Waters, Derek E. Moulton_.
 
@@ -20,6 +19,7 @@ PCPATCH: software for the topological construction of multigrid relaxation metho
 
 ### Published
 
+Fireshape: a shape optimization toolbox for Firedrake, _Alberto Paganini, Florian Wechsung_, Structural and Multidisciplinary Optimization, 2020, *accepted for publication*.
 
 Automated shape differentiation in the Unified Form Language, _David A Ham, Lawrence Mitchell, Alberto Paganini, Florian Wechsung,_ Structural and Multidisciplinary Optimization, 2019.
 
