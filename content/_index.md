@@ -8,7 +8,7 @@ Before coming to New York I was a doctoral student in the [Numerical Analysis gr
 During this time I worked on shape optimisation algorithms and fast solvers for the incompressible Navier-Stokes equations.
 
 I spend a lot of my time writing software in Python and C/C++ and am a user of and contribute to the [Firedrake](https://firedrakeproject.org), [PETSc](https://www.mcs.anl.gov/petsc/), and [dolfin-adjoint](http://www.dolfin-adjoint.org/en/latest/) software libraries.
-In addition, I am one of the main authors of the [Fireshape](https://github.com/fireshape/fireshape) shape optimisation library and [PyROL](https://bitbucket.org/pyrol/pyrol/src/master/).
+In addition, I am one of the main authors of the [Fireshape](https://github.com/fireshape/fireshape) shape optimisation library, the [PyROL](https://bitbucket.org/pyrol/pyrol/src/master/) interface to the Rapid Optimization Library of Trilinos, and the [SIMSOPT](https://github.com/hiddenSymmetries/simsopt) stellarator optimization code.
 
 I am also a consultant for the [actuarial practice of Oliver Wyman](https://www.oliverwyman.de/our-expertise/capabilities/actuarial.html), working on generative learning applications for financial data, and for [Cambio Analytics](https://cambio-analytics.com), working on data driven methods to reduce the energy consumption in factories.
 
@@ -28,6 +28,7 @@ I am also a consultant for the [actuarial practice of Oliver Wyman](https://www.
 
 ### Awards
 
+- 2020: Oxford Mathematical Institute DPhil Thesis Prize
 - 2019: G-Research DPhil Prize
 - 2017: Best student presentation at the 27th Biennial Numerical Analysis Conference in Strathclyde.
 - 2016: Best group presentation at InFoMM UK Graduate Modelling Camp 2016.
