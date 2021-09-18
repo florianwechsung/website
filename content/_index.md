@@ -31,5 +31,6 @@ I am also a consultant for the [actuarial practice of Oliver Wyman](https://www.
 - 2020: Oxford Mathematical Institute DPhil Thesis Prize
 - 2019: G-Research DPhil Prize
 - 2017: Best student presentation at the 27th Biennial Numerical Analysis Conference in Strathclyde.
+- 2016: First prize at the Oxford Hackathon
 - 2016: Best group presentation at InFoMM UK Graduate Modelling Camp 2016.
 - 2015: Clarendon / Marvin Bower scholarship of the University of Oxford and Balliol College

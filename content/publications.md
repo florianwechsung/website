@@ -4,9 +4,9 @@ title: Publications
 
 ### Submitted
 
-Single-stage gradient-based stellarator coil design: stochastic optimization, _Florian Wechsung, Andrew Giuliani, Antoine Cerfon, Georg Stadler, Matt Landreman_.
+Robust multigrid techniques for augmented Lagrangian preconditioning of incompressible Stokes equations with extreme viscosity variations, _Yu-hsuan Shih, Georg Stadler, Florian Wechsung_.
 
-SIMSOPT: A flexible framework for stellarator optimization, _Matt Landreman, Bharat Medasani, Florian Wechsung, Andrew Giuliani, Rogerio Jorge, and Caoxiang Zhu_.
+Single-stage gradient-based stellarator coil design: stochastic optimization, _Florian Wechsung, Andrew Giuliani, Antoine Cerfon, Georg Stadler, Matt Landreman_.
 
 Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman_.
 
@@ -14,6 +14,8 @@ Robust multigrid methods for nearly incompressible elasticity using macro elemen
 
 
 ### Published / Accepted
+
+SIMSOPT: A flexible framework for stellarator optimization, _Matt Landreman, Bharat Medasani, Florian Wechsung, Andrew Giuliani, Rogerio Jorge, and Caoxiang Zhu_, Journal of Open Source Software, 2021.
 
 A Reynolds-robust preconditioner for the Reynolds-robust Scott-Vogelius discretization of the stationary incompressible Navier-Stokes equations, _Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung_, SMAI Journal of Computational Mathematics, 2021.
 
