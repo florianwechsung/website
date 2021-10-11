@@ -15,9 +15,9 @@ I am also a consultant for the [actuarial practice of Oliver Wyman](https://www.
 
 ### Research interests
 
-- Numerical solution of PDEs
-- Optimisation with PDE constraints
+- Large scale optimisation with PDE constraints
 - Optimisation under uncertainty
+- Numerical solution of PDEs
 - High performance computing
 
 ### Education

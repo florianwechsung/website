@@ -10,10 +10,10 @@ Single-stage gradient-based stellarator coil design: stochastic optimization, _F
 
 Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman_.
 
-Robust multigrid methods for nearly incompressible elasticity using macro elements, _Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung_.
-
 
 ### Published / Accepted
+
+Robust multigrid methods for nearly incompressible elasticity using macro elements, _Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung_, IMA Journal of Numerical Analysis, 2021.
 
 SIMSOPT: A flexible framework for stellarator optimization, _Matt Landreman, Bharat Medasani, Florian Wechsung, Andrew Giuliani, Rogerio Jorge, and Caoxiang Zhu_, Journal of Open Source Software, 2021.
 
