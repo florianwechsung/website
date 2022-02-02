@@ -4,7 +4,7 @@ description: Postdoctoral Associate, wechsung(at)nyu(dot)edu
 ---
 
 I'm a postdoctoral researcher at the [Courant Institute for Mathematical Sciences](https://cims.nyu.edu) at NYU in the Numerical Analysis and Scientific Computing group.
-I work with [Georg Stadler](https://math.nyu.edu/~stadler/) on problems related to optimisation under uncertainty.
+I work with [Georg Stadler](https://math.nyu.edu/~stadler/) on problems concerned with optimisation under uncertainty.
 Before coming to New York I was a doctoral student in the [Numerical Analysis group](http://www.maths.ox.ac.uk/groups/numerical-analysis) at the University of Oxford under supervision of [Patrick Farrell](http://www.pefarrell.org).
 During this time I worked on shape optimisation algorithms and fast solvers for the incompressible Navier-Stokes equations.
 
