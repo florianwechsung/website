@@ -8,14 +8,14 @@ title: Publications
 
 Direct computation of magnetic surfaces in Boozer coordinates and coil optimization for quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Matt Landreman, Georg Stadler, Antoine Cerfon_.
 
-Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman_.
-
 
 ### Published / Accepted
 
 Precise stellarator quasi-symmetry can be achieved with electromagnetic coils, _Florian Wechsung, Matt Landreman, Andrew Giuliani, Antoine Cerfon, Georg Stadler_, to appear in Proceedings of the National Academy of Sciences, 2022 .
 
-Robust multigrid techniques for augmented Lagrangian preconditioning of incompressible Stokes equations with extreme viscosity variations, _Yu-hsuan Shih, Georg Stadler, Florian Wechsung_, SIAM  Journal on Scientific Computing, 2022.
+Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman_, to appear in Journal of Computational Physics, 2022.
+
+Robust multigrid techniques for augmented Lagrangian preconditioning of incompressible Stokes equations with extreme viscosity variations, _Yu-hsuan Shih, Georg Stadler, Florian Wechsung_, to appear in SIAM Journal on Scientific Computing, 2022.
 
 Single-stage gradient-based stellarator coil design: stochastic optimization, _Florian Wechsung, Andrew Giuliani, Antoine Cerfon, Georg Stadler, Matt Landreman_, Nuclear Fusion, 2022.
 
