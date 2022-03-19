@@ -4,7 +4,7 @@ title: Publications
 
 ### Submitted
 
-<!--Novel approaches for increasing manufacturing tolerances in Stellarator coil design, _Florian Wechsung, Andrew Giuliani, Matt Landreman, Antoine Cerfon, Georg Stadler_.-->
+A-posteriori optimization for increasing manufacturing tolerances in stellarator coil design, _Florian Wechsung, Andrew Giuliani, Matt Landreman, Antoine Cerfon, Georg Stadler_.
 
 Direct computation of magnetic surfaces in Boozer coordinates and coil optimization for quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Matt Landreman, Georg Stadler, Antoine Cerfon_.
 
