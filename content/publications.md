@@ -11,7 +11,7 @@ Direct computation of magnetic surfaces in Boozer coordinates and coil optimizat
 
 ### Published / Accepted
 
-Precise stellarator quasi-symmetry can be achieved with electromagnetic coils, _Florian Wechsung, Matt Landreman, Andrew Giuliani, Antoine Cerfon, Georg Stadler_, to appear in Proceedings of the National Academy of Sciences, 2022 .
+Precise stellarator quasi-symmetry can be achieved with electromagnetic coils, _Florian Wechsung, Matt Landreman, Andrew Giuliani, Antoine Cerfon, Georg Stadler_, Proceedings of the National Academy of Sciences, 2022 .
 
 Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, _Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman_, to appear in Journal of Computational Physics, 2022.
 
